@@ -1,0 +1,3 @@
+1. Crear entornos vituales con virtualenv
+La estructura es: virtualenv -p python3 [nombre del entorno]
+Para activarlo es con .\[nombre del entorno]\Scripts\activate
